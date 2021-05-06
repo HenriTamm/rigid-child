@@ -466,7 +466,6 @@ function separate_registration_form_enquiry() {
  
    // NOTE: The following <FORM></FORM> is taken from: woocommerce\templates\myaccount\form-login.php
    // When you update the WooCommerce plugin, you may need to adjust the below accordingly
- 
    do_action( 'woocommerce_before_customer_login_form' );
  
    ?>
