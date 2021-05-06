@@ -1,0 +1,18 @@
+/*
+Theme Name: Rigid Child
+Theme URI: https://rigid.althemist.com/
+Description: <strong>Rigid theme by theAlThemist</strong> - <br/> Modern E-commerce WordPress / WooCommerce theme<br/> <a href='http://www.althemist.com'>Other themes by us.</a>
+Version: 1.0.0
+Template: rigid
+Author: theAlThemist
+Author URI: https://www.althemist.com
+License: Envato / Themeforest Split Licence
+License URI: https://themeforest.net/licenses/standard
+Text Domain: rigid
+*/
+
+/* Hide edit option in vendor dashboard */
+.row-actions span.edit {
+    display: none;
+}
+

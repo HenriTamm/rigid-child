@@ -1,0 +1,3766 @@
+# Copyright (C) 2020 theAlThemist
+# This file is distributed under the Envato / Themeforest Split Licence.
+msgid ""
+msgstr ""
+"Project-Id-Version: Rigid 5.7.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/rigid\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-12-20T16:57:09+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: rigid\n"
+
+#. Theme Name of the theme
+msgid "Rigid"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://rigid.althemist.com/"
+msgstr ""
+
+#. Description of the theme
+msgid "<strong>Rigid theme by theAlThemist</strong> - <br/> Modern E-commerce WordPress / WooCommerce theme<br/> <a href='http://www.althemist.com'>Other themes by us.</a>"
+msgstr ""
+
+#. Author of the theme
+msgid "theAlThemist"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.althemist.com"
+msgstr ""
+
+#: archive.php:88
+msgid "No posts were found. Sorry!"
+msgstr ""
+
+#: archive.php:99
+#: index.php:104
+#: partials/content-rigid_portfolio_category.php:351
+#: search.php:87
+msgid "Next &raquo;"
+msgstr ""
+
+#: archive.php:100
+#: index.php:105
+#: partials/content-rigid_portfolio_category.php:352
+#: search.php:88
+msgid "&laquo; Back"
+msgstr ""
+
+#: archive.php:112
+#: forum.php:155
+#: index.php:118
+#: page.php:177
+#: partials/content-rigid_portfolio_category.php:328
+#: single-rigid-portfolio.php:374
+#: single.php:158
+#: woocommerce/global/wrapper-start.php:135
+msgid "show"
+msgstr ""
+
+#: comments.php:11
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:23
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:29
+#: comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:30
+#: comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:5
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:7
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: content-page.php:7
+#: content-related-posts.php:115
+#: content.php:119
+msgid "Pages:"
+msgstr ""
+
+#: content-related-posts.php:61
+#: content-related-posts.php:74
+#: content.php:64
+#: content.php:77
+msgid "View"
+msgstr ""
+
+#: content-related-posts.php:102
+#: content.php:106
+msgid "About the Author:"
+msgstr ""
+
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-attribute.php:23
+#: wc-vendors/public/forms/partials/wcvendors-pro-product-attribute.php:19
+msgid "Remove"
+msgstr ""
+
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-attribute.php:32
+msgid "Name"
+msgstr ""
+
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-attribute.php:45
+#: wc-vendors/public/forms/partials/wcvendors-pro-product-attribute.php:52
+msgid "Value(s)"
+msgstr ""
+
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-attribute.php:59
+#: wc-vendors/public/forms/partials/wcvendors-pro-product-attribute.php:58
+msgid "Select terms"
+msgstr ""
+
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-attribute.php:76
+#: wc-vendors/public/forms/partials/wcvendors-pro-product-attribute.php:68
+msgid "Select all"
+msgstr ""
+
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-attribute.php:77
+#: wc-vendors/public/forms/partials/wcvendors-pro-product-attribute.php:69
+msgid "Select none"
+msgstr ""
+
+#. translators: %s: WC_DELIMITER
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-attribute.php:85
+msgid "Enter some text, or some attributes by \"%s\" separating values."
+msgstr ""
+
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-attribute.php:92
+#: wc-vendors/public/forms/partials/wcvendors-pro-product-attribute.php:40
+msgid "Visible on the product page"
+msgstr ""
+
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-attribute.php:103
+#: wc-vendors/public/forms/partials/wcvendors-pro-product-attribute.php:44
+msgid "Used for variations"
+msgstr ""
+
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-data-attributes.php:29
+msgid "Custom product attribute"
+msgstr ""
+
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-data-attributes.php:44
+#: incl/rigid-options-framework/rigid-options-interface.php:464
+#: wc-vendors/public/forms/partials/wcvendors-pro-attributes.php:39
+msgid "Add"
+msgstr ""
+
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-data-attributes.php:50
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-data-attributes.php:82
+#: wc-vendors/public/forms/partials/wcvendors-pro-attributes.php:46
+#: wc-vendors/public/forms/partials/wcvendors-pro-attributes.php:95
+msgid "Expand"
+msgstr ""
+
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-data-attributes.php:50
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-data-attributes.php:82
+#: wc-vendors/public/forms/partials/wcvendors-pro-attributes.php:46
+#: wc-vendors/public/forms/partials/wcvendors-pro-attributes.php:95
+msgid "Close"
+msgstr ""
+
+#: dc-product-vendor/vendor-dashboard/product-manager/views/html-product-data-attributes.php:79
+msgid "Save attributes"
+msgstr ""
+
+#: functions.php:76
+msgid "Showing %1$s to %2$s of %3$s (%4$s Pages)"
+msgstr ""
+
+#: functions.php:94
+#: incl/woocommerce-functions.php:42
+msgid "Home"
+msgstr ""
+
+#: functions.php:216
+msgid "Forums"
+msgstr ""
+
+#: functions.php:286
+msgid "Page"
+msgstr ""
+
+#: functions.php:319
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:319
+#: functions.php:334
+msgid "Edit"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:331
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:336
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:342
+msgid "Reply"
+msgstr ""
+
+#: functions.php:464
+#: functions.php:481
+msgid "read more"
+msgstr ""
+
+#: functions.php:594
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#: functions.php:595
+msgid "Please try another search term"
+msgstr ""
+
+#: functions.php:599
+msgid "View all results"
+msgstr ""
+
+#: functions.php:986
+msgid "prev"
+msgstr ""
+
+#: functions.php:987
+msgid "next"
+msgstr ""
+
+#: functions.php:1067
+msgid "ago"
+msgstr ""
+
+#: functions.php:1122
+msgid "Menu"
+msgstr ""
+
+#: functions.php:1126
+#: header.php:248
+msgid "My Account"
+msgstr ""
+
+#: functions.php:1131
+#: header.php:223
+msgid "Wishlist"
+msgstr ""
+
+#: functions.php:1154
+#: functions.php:1165
+#: functions.php:1177
+#: functions.php:1184
+#: header.php:266
+#: header.php:277
+#: header.php:289
+#: header.php:296
+msgid "Vendor Dashboard"
+msgstr ""
+
+#: header.php:103
+msgid "Show/Hide"
+msgstr ""
+
+#: header.php:103
+msgid "Slide toggle"
+msgstr ""
+
+#: header.php:206
+#: searchform.php:4
+#: searchform.php:15
+msgid "Search"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-framework.php:100
+msgid "Theme Options"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-framework.php:152
+#: incl/rigid-options-framework/rigid-options-framework.php:161
+msgid "Save All Options"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-framework.php:153
+#: incl/rigid-options-framework/rigid-options-framework.php:162
+msgid "Restore Defaults"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-framework.php:153
+#: incl/rigid-options-framework/rigid-options-framework.php:162
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-framework.php:154
+msgid "Import Options"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-framework.php:155
+msgid "Export Options"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-framework.php:195
+msgid "Default options restored."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-framework.php:241
+msgid "Options saved."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-functions.php:26
+msgid "-- None --"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-interface.php:468
+msgid "List of created custom sidebars:"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-interface.php:478
+msgid "No custom sidebars."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-medialibrary-uploader.php:74
+msgid "Upload"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-medialibrary-uploader.php:97
+#: incl/rigid-options-framework/rigid-options-medialibrary-uploader.php:195
+msgid "View File"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-medialibrary-uploader.php:156
+msgid "Manage images"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-medialibrary-uploader.php:157
+msgid "Remove Image(s)"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-medialibrary-uploader.php:287
+msgid "Gallery"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-medialibrary-uploader.php:287
+msgid "Previously Uploaded"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:250
+msgid "No Repeat"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:251
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:252
+msgid "Repeat Vertically"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:253
+msgid "Repeat All"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:266
+msgid "Top Left"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:267
+msgid "Top Center"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:268
+msgid "Top Right"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:269
+msgid "Middle Left"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:270
+msgid "Middle Center"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:271
+msgid "Middle Right"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:272
+msgid "Bottom Left"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:273
+msgid "Bottom Center"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:274
+msgid "Bottom Right"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:287
+msgid "Scroll Normally"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:288
+msgid "Fixed in Place"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:360
+#: incl/rigid-options-framework/rigid-options.php:61
+msgid "Normal"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:361
+msgid "Italic"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:362
+msgid "Bold"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options-sanitize.php:363
+msgid "Bold Italic"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:26
+msgid "Standard"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:27
+msgid "Masonry Tiles"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:28
+msgid "Mozaic"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:57
+msgid "List View"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:62
+msgid "Transparent - Light Scheme"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:63
+msgid "Transparent - Dark Scheme"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:64
+msgid "Overlay"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:71
+msgctxt "theme-options"
+msgid "Use \"time-ago\" (e.g. 3 days ago) date format for posts created in the last 6 months. For older posts, WordPress date format will be used. "
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:72
+msgctxt "theme-options"
+msgid "WordPress date format"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:80
+msgctxt "theme-options"
+msgid "Use Ajax"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:84
+msgctxt "theme-options"
+msgid "Search only in Products"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:94
+msgctxt "theme-options"
+msgid "Enabled"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:95
+msgctxt "theme-options"
+msgid "Disabled"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:100
+msgctxt "theme-options"
+msgid "Off"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:202
+#: incl/rigid-options-framework/rigid-options.php:1434
+msgctxt "theme-options"
+msgid "Zoom"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:203
+#: incl/rigid-options-framework/rigid-options.php:968
+msgctxt "theme-options"
+msgid "Lightbox"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:214
+msgctxt "theme-options"
+msgid "Above Price"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:215
+msgctxt "theme-options"
+msgid "Below Price"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:216
+msgctxt "theme-options"
+msgid "Below \"Add to cart\""
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:230
+#: incl/rigid-options-framework/rigid-options.php:421
+msgctxt "theme-options"
+msgid "Right"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:231
+#: incl/rigid-options-framework/rigid-options.php:419
+#: incl/rigid-options-framework/rigid-options.php:1246
+#: incl/rigid-options-framework/rigid-options.php:1847
+#: incl/rigid-options-framework/rigid-options.php:1910
+#: incl/rigid-options-framework/rigid-options.php:1985
+msgctxt "theme-options"
+msgid "Left"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:234
+msgctxt "theme-options"
+msgid "Default Position"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:250
+msgctxt "theme-options"
+msgid "General"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:255
+msgctxt "theme-options"
+msgid "Responsive"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:256
+msgctxt "theme-options"
+msgid "Enable responsive design."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:262
+msgctxt "theme-options"
+msgid "Use Site Preloader"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:263
+msgctxt "theme-options"
+msgid "Enable preloader for the whole site."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:269
+msgctxt "theme-options"
+msgid "Layout"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:270
+msgctxt "theme-options"
+msgid "Choose layout to be used sitewide."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:277
+msgctxt "theme-options"
+msgid "Logo"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:278
+#: incl/rigid-options-framework/rigid-options.php:285
+#: incl/rigid-options-framework/rigid-options.php:291
+#: incl/rigid-options-framework/rigid-options.php:298
+msgctxt "theme-options"
+msgid "Choose or upload new logo."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:284
+msgctxt "theme-options"
+msgid "Transparent Header Alternative Logo"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:290
+msgctxt "theme-options"
+msgid "Mobile Devices Logo (Optional) - if set, also used in sticky header"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:292
+msgctxt "theme-options"
+msgid "Recommended image size: 50x50 px."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:297
+msgctxt "theme-options"
+msgid "Footer Logo (Needs to be enabled from Footer area->Show logo in footer)"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:303
+msgctxt "theme-options"
+msgid "Text Logo Typography"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:304
+msgctxt "theme-options"
+msgid "Set font options for text logo (only active if there is no image logo selected)."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:319
+msgctxt "theme-options"
+msgid "Google Maps JavaScript API key"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:320
+msgctxt "theme-options"
+msgid "Enter your Google Maps JavaScript API key, to be used for google map integration in Map shortcode. <a target=\"_blank\" href=\"%s\">Generate Google Maps JavaScript API key</a>"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:331
+msgctxt "theme-options"
+msgid "Enable Smooth Scroll"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:332
+msgctxt "theme-options"
+msgid "Smooth scrolling, when using anchors (known as one-pager)."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:338
+msgctxt "theme-options"
+msgid "Show Previous / Next Links"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:339
+msgctxt "theme-options"
+msgid "Show Previous / Next Links for posts, products and portfolios."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:345
+msgctxt "theme-options"
+msgid "Global Date Format"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:346
+msgctxt "theme-options"
+msgid "Choose between the WordPress settings format and the theme \"time ago\" format for posts and all custom post types."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:353
+msgctxt "theme-options"
+msgid "Enable Carousel Effect"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:354
+msgctxt "theme-options"
+msgid "Enable Carousel effect on related posts, portfolios and products."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:362
+msgctxt "theme-options"
+msgid "Show Search in Header"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:363
+msgctxt "theme-options"
+msgid "Show search form in header."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:372
+msgctxt "theme-options"
+msgid "Choose whether to use Ajax or ordinary form. Search only in products or in the whole site (only if WooCommerce is activated)."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:380
+msgctxt "theme-options"
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:381
+msgctxt "theme-options"
+msgid "Show breadcrumb."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:387
+msgctxt "theme-options"
+msgid "Custom CSS"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:388
+msgctxt "theme-options"
+msgid "You can define custom CSS rules here. They will override all other CSS. In some cases you may need to add !important"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:397
+msgctxt "theme-options"
+msgid "Header area"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:403
+msgctxt "theme-options"
+msgid "Logo and Top Menu Positions"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:404
+msgctxt "theme-options"
+msgid "Select how the logo and top menu will appear."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:412
+msgctxt "theme-options"
+msgid "Main Menu Alignment"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:413
+msgctxt "theme-options"
+msgid "Set main menu alignment position."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:420
+#: incl/rigid-options-framework/rigid-options.php:1247
+#: incl/rigid-options-framework/rigid-options.php:1848
+#: incl/rigid-options-framework/rigid-options.php:1911
+#: incl/rigid-options-framework/rigid-options.php:1986
+msgctxt "theme-options"
+msgid "Center"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:425
+msgctxt "theme-options"
+msgid "Header Size"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:426
+#: incl/rigid-options-framework/rigid-options.php:714
+msgctxt "theme-options"
+msgid "Standard / Fullwidth."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:431
+#: incl/rigid-options-framework/rigid-options.php:708
+#: incl/rigid-options-framework/rigid-options.php:719
+#: incl/rigid-options-framework/rigid-options.php:1317
+msgctxt "theme-options"
+msgid "Standard"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:432
+#: incl/rigid-options-framework/rigid-options.php:720
+#: incl/rigid-options-framework/rigid-options.php:1388
+#: incl/rigid-options-framework/rigid-options.php:1997
+msgctxt "theme-options"
+msgid "Fullwidth"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:436
+msgctxt "theme-options"
+msgid "Sticky Header"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:437
+msgctxt "theme-options"
+msgid "Enable sticky header functionality. (not available in header-left layout)"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:443
+msgctxt "theme-options"
+msgid "Left Header Settings"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:444
+msgctxt "theme-options"
+msgid "Select fixed or scrollable left header."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:449
+msgctxt "theme-options"
+msgid "Fixed"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:450
+msgctxt "theme-options"
+msgid "Scrollable"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:454
+msgid "Header Background"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:455
+msgid "Set Header Background image and/or color."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:461
+msgctxt "theme-options"
+msgid "Top Menu Bar"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:462
+msgctxt "theme-options"
+msgid "Show the top menu bar"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:469
+msgctxt "theme-options"
+msgid "Top Menu Bar Visible on Mobile"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:470
+msgctxt "theme-options"
+msgid "Will be vsible on mobile devices"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:477
+msgctxt "theme-options"
+msgid "Short Top Header Message"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:478
+msgctxt "theme-options"
+msgid "The message will appear in the top menu bar."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:484
+msgctxt "theme-options"
+msgid "Append Phone Number."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:490
+msgctxt "theme-options"
+msgid "Make phone number a link to dial."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:496
+msgctxt "theme-options"
+msgid "Append Email Address."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:502
+msgctxt "theme-options"
+msgid "Make email address a link to open default mail client."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:508
+msgctxt "theme-options"
+msgid "Collapsible Pre-Header"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:509
+msgctxt "theme-options"
+msgid "Enable Collapsible Pre-Header widget area"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:515
+msgctxt "theme-options"
+msgid "Collapsible Pre-Header Background Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:521
+msgctxt "theme-options"
+msgid "Collapsible Pre-Header Titles Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:527
+msgctxt "theme-options"
+msgid "Collapsible Pre-Header Titles Border Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:533
+msgctxt "theme-options"
+msgid "Collapsible Pre-Header Links Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:539
+msgctxt "theme-options"
+msgid "Header Top Bar Background Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:545
+msgctxt "theme-options"
+msgid "Header Top Bar Border Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:551
+msgctxt "theme-options"
+msgid "Header Top Bar Menu Links Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:557
+msgctxt "theme-options"
+msgid "Header Top Bar Menu Links Hover Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:563
+msgctxt "theme-options"
+msgid "Header Top Bar Menu Links Hover Background Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:569
+msgctxt "theme-options"
+msgid "Main Menu Typography"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:570
+msgctxt "theme-options"
+msgid "Choose Main menu font size and style."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:584
+msgctxt "theme-options"
+msgid "Main Menu Icons Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:590
+msgctxt "theme-options"
+msgid "Main Menu Transform to Uppercase"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:591
+msgctxt "theme-options"
+msgid "Transform main menu top level to uppercase."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:597
+msgctxt "theme-options"
+msgid "Main Menu Accent Style"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:598
+msgctxt "theme-options"
+msgid "Choose accent style for the main menu."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:603
+msgctxt "theme-options"
+msgid "Strikethrough"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:604
+msgctxt "theme-options"
+msgid "Line"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:605
+msgctxt "theme-options"
+msgid "Dots"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:606
+msgctxt "theme-options"
+msgid "Pills"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:610
+msgctxt "theme-options"
+msgid "Main Menu Background Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:611
+msgctxt "theme-options"
+msgid "*Note: Only applies for Logo left/Menu below and Logo Center/Menu below header layouts!"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:617
+msgctxt "theme-options"
+msgid "Main Menu Links Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:623
+msgctxt "theme-options"
+msgid "Main Menu Links Hover Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:629
+msgctxt "theme-options"
+msgid "Main Menu Links Hover Background Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:630
+msgctxt "theme-options"
+msgid "*Note: Also applies for highlighted menu items. Not active for transparent header.!"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:636
+msgctxt "theme-options"
+msgid "Transparent Header Menu Color - Light Scheme"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:642
+msgctxt "theme-options"
+msgid "Transparent Header Menu Hover Color - Light Scheme"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:648
+msgctxt "theme-options"
+msgid "Transparent Header Menu Color - Dark Scheme"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:654
+msgctxt "theme-options"
+msgid "Transparent Header Menu Hover Dark - Light Scheme"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:660
+msgctxt "theme-options"
+msgid "Sub-Menu Color Scheme"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:661
+msgctxt "theme-options"
+msgid "Select color scheme for the sub-menu."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:666
+msgctxt "theme-options"
+msgid "Light"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:667
+msgctxt "theme-options"
+msgid "Dark"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:671
+msgctxt "theme-options"
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:677
+msgctxt "theme-options"
+msgid "Mobile Menu Links Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:683
+msgctxt "theme-options"
+msgid "Mobile Menu Button Position"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:684
+msgctxt "theme-options"
+msgid "Choose mobile menu button position."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:689
+msgctxt "theme-options"
+msgid "Right Thumb"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:690
+msgctxt "theme-options"
+msgid "Inside Header"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:697
+msgctxt "theme-options"
+msgid "Footer area"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:702
+msgctxt "theme-options"
+msgid "Footer Style"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:703
+msgctxt "theme-options"
+msgid "*Note: Reveal footer is only available in fullwidth layout mode and not available on mobile/touch devices and screens with height lower than 768px for compatibility reasons. Use this feature with extra attention on large footer, because of the fixed footer position, which could prevent the full footer visibility on smaller screens."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:709
+msgctxt "theme-options"
+msgid "Reveal"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:713
+msgctxt "theme-options"
+msgid "Footer Size"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:724
+msgctxt "theme-options"
+msgid "Show Logo in Footer"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:725
+msgctxt "theme-options"
+msgid "Main logo will be displayed in footer, unless General->Footer Logo is selected. In that case \"Footer Logo\" will be displayed."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:731
+msgid "Footer Background"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:732
+msgid "Set Footer Background image and/or color."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:738
+msgctxt "theme-options"
+msgid "Footer Titles Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:744
+msgctxt "theme-options"
+msgid "Footer Titles Border Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:750
+msgctxt "theme-options"
+msgid "Footer Menu Links Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:756
+msgctxt "theme-options"
+msgid "Footer Widgets Links Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:762
+msgctxt "theme-options"
+msgid "Footer Text Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:768
+msgctxt "theme-options"
+msgid "Footer Copyright Bar Background Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:774
+msgctxt "theme-options"
+msgid "Footer Copyright Bar Text Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:780
+msgctxt "theme-options"
+msgid "Footer Copyright Bar Text"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:781
+msgctxt "theme-options"
+msgid "Enter Copyright text."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:791
+msgctxt "theme-options"
+msgid "Common Styles"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:796
+msgctxt "theme-options"
+msgid "Site Main Accent Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:802
+msgctxt "theme-options"
+msgid "Links Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:808
+msgctxt "theme-options"
+msgid "Links Hover Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:814
+msgctxt "theme-options"
+msgid "Widgets Title Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:820
+msgctxt "theme-options"
+msgid "Default Buttons Style"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:826
+msgid "Classic"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:827
+msgid "Round"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:831
+msgctxt "theme-options"
+msgid "Default Buttons Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:837
+msgctxt "theme-options"
+msgid "Default Buttons Hover Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:843
+msgctxt "theme-options"
+msgid "NEW Label Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:849
+msgctxt "theme-options"
+msgid "SALE Label Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:855
+msgctxt "theme-options"
+msgid "Page Title Scroll/Fade Effect"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:856
+msgctxt "theme-options"
+msgid "Enable fade effect for page title on scroll."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:862
+msgctxt "theme-options"
+msgid "Standard page title color (no background image)"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:868
+msgctxt "theme-options"
+msgid "Standard page subtitle color (no background image)"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:874
+msgctxt "theme-options"
+msgid "Standard page title background color (no background image)"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:880
+msgctxt "theme-options"
+msgid "Standard page title border color (no background image)"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:886
+msgctxt "theme-options"
+msgid "Customized page title color (with background image)"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:889
+msgctxt "theme-options"
+msgid "Also applies for subtitle and breadcrumb."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:893
+msgctxt "theme-options"
+msgid "Blog Post Hover Overlay Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:896
+msgctxt "theme-options"
+msgid "Only applies for Masonry Blog and Latest Posts shortcode."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:903
+msgctxt "theme-options"
+msgid "Portfolio"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:908
+msgctxt "theme-options"
+msgid "Portfolio Category Layout"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:909
+msgctxt "theme-options"
+msgid "Choose the layout for the portfolio category view."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:914
+msgctxt "theme-options"
+msgid "Grid 2 Columns"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:915
+msgctxt "theme-options"
+msgid "Grid 3 Columns"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:916
+msgctxt "theme-options"
+msgid "Grid 4 Columns"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:917
+msgctxt "theme-options"
+msgid "List"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:918
+msgctxt "theme-options"
+msgid "Masonry Fullwidth"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:919
+msgctxt "theme-options"
+msgid "Masonry Grid"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:923
+#: incl/rigid-options-framework/rigid-options.php:1251
+msgctxt "theme-options"
+msgid "Enable Infinite Scroll"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:924
+msgctxt "theme-options"
+msgid "Enable infinite scroll on portfolio listing pages."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:931
+#: incl/rigid-options-framework/rigid-options.php:1259
+msgctxt "theme-options"
+msgid "Load More Button"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:932
+msgctxt "theme-options"
+msgid "Use \"Load More\" button for the additional portfolios to load."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:939
+msgctxt "theme-options"
+msgid "None-Overlay"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:940
+msgctxt "theme-options"
+msgid "Use none-overlay style for projects in category view."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:946
+msgctxt "theme-options"
+msgid "Portfolio Gaps"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:947
+msgctxt "theme-options"
+msgid "Will there be a gap between projects in category view."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:953
+msgctxt "theme-options"
+msgid "Show Similar Projects"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:954
+msgctxt "theme-options"
+msgid "Display similar projects on single project page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:960
+msgctxt "theme-options"
+msgid "Number of Similar Projects"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:961
+msgctxt "theme-options"
+msgid "Set the number of similar projects shown on single project page. Set to -1 to display all."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:969
+msgctxt "theme-options"
+msgid "Show link that opens the featured image in lightbox."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:975
+msgctxt "theme-options"
+msgid "Portfolio Overlay Text Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:984
+msgctxt "theme-options"
+msgid "Fonts"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:989
+msgctxt "theme-options"
+msgid "Body Font"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:990
+msgctxt "theme-options"
+msgid "Choose font parameters for the body text."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1002
+msgctxt "theme-options"
+msgid "Accent and Headings Google Font Face"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1003
+msgctxt "theme-options"
+msgid "Choose Font Face."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1016
+msgctxt "theme-options"
+msgid "Use selected google font face also for"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1024
+msgctxt "theme-options"
+msgid "Main Menu"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1025
+msgctxt "theme-options"
+msgid "Buttons"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1029
+msgid "Google Font Subsets"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1030
+msgctxt "theme-options"
+msgid "Choose Subsets."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1037
+msgctxt "theme-options"
+msgid "H1 Font Options"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1038
+msgctxt "theme-options"
+msgid "Choose H1 size, style and color."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1049
+msgctxt "theme-options"
+msgid "H2 Font Options"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1050
+msgctxt "theme-options"
+msgid "Choose H2 size, style and color."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1061
+msgctxt "theme-options"
+msgid "H3 Font Options"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1062
+msgctxt "theme-options"
+msgid "Choose H3 size, style and color."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1073
+msgctxt "theme-options"
+msgid "H4 Font Options"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1074
+msgctxt "theme-options"
+msgid "Choose H4 size, style and color."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1085
+msgctxt "theme-options"
+msgid "H5 Font Options"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1086
+msgctxt "theme-options"
+msgid "Choose H5 size, style and color."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1097
+msgctxt "theme-options"
+msgid "H6 Font Options"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1098
+msgctxt "theme-options"
+msgid "Choose H6 size, style and color."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1112
+msgctxt "theme-options"
+msgid "Advanced Backgrounds"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1117
+msgctxt "theme-options"
+msgid "Enable YouTube Video Background Sitewide."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1118
+msgctxt "theme-options"
+msgid "Check to enable below youtube video to be set as background on the whole site. Note that it will override any supersized and ordinary backgrounds."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1124
+#: incl/rigid-options-framework/rigid-options.php:1726
+#: incl/rigid-options-framework/rigid-options.php:2038
+msgctxt "theme-options"
+msgid "YouTube Video URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1125
+#: incl/rigid-options-framework/rigid-options.php:1727
+#: incl/rigid-options-framework/rigid-options.php:2039
+msgctxt "theme-options"
+msgid "Paste the YouTube URL."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1131
+#: incl/rigid-options-framework/rigid-options.php:1733
+#: incl/rigid-options-framework/rigid-options.php:2045
+msgctxt "theme-options"
+msgid "Start Time"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1132
+#: incl/rigid-options-framework/rigid-options.php:1734
+#: incl/rigid-options-framework/rigid-options.php:2046
+msgctxt "theme-options"
+msgid "Set the seconds the video should start at."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1139
+#: incl/rigid-options-framework/rigid-options.php:1741
+#: incl/rigid-options-framework/rigid-options.php:2053
+msgctxt "theme-options"
+msgid "End Time"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1140
+#: incl/rigid-options-framework/rigid-options.php:1742
+#: incl/rigid-options-framework/rigid-options.php:2054
+msgctxt "theme-options"
+msgid "Set the seconds the video should stop at."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1147
+#: incl/rigid-options-framework/rigid-options.php:1749
+#: incl/rigid-options-framework/rigid-options.php:2061
+msgctxt "theme-options"
+msgid "Loop"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1148
+#: incl/rigid-options-framework/rigid-options.php:1750
+#: incl/rigid-options-framework/rigid-options.php:2062
+msgctxt "theme-options"
+msgid "Loops the movie once ended."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1154
+#: incl/rigid-options-framework/rigid-options.php:1756
+#: incl/rigid-options-framework/rigid-options.php:2068
+msgctxt "theme-options"
+msgid "Mute"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1155
+#: incl/rigid-options-framework/rigid-options.php:1757
+#: incl/rigid-options-framework/rigid-options.php:2069
+msgctxt "theme-options"
+msgid "Mute the audio."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1161
+msgctxt "theme-options"
+msgid "Enable supersized slider sitewide."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1162
+msgctxt "theme-options"
+msgid "Check to enable below slider to be set as background on the whole site. Note that it will override your current background."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1168
+msgctxt "theme-options"
+msgid "Choose images for the sitewide supersized slider."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1169
+#: incl/rigid-options-framework/rigid-options.php:1234
+#: incl/rigid-options-framework/rigid-options.php:1778
+#: incl/rigid-options-framework/rigid-options.php:1898
+#: incl/rigid-options-framework/rigid-options.php:2084
+msgctxt "theme-options"
+msgid "Use to manage / upload images."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1183
+msgctxt "theme-options"
+msgid "Shop"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1188
+msgctxt "theme-options"
+msgid "Product Addons"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1189
+msgctxt "theme-options"
+msgid "With Product Addons enabled, you can create different add-ons on global or on per-product level. On global level, you can choose either to display the addons on all products or specific categories. Global Addons are accessible from Products->Rigid Global Add-ons. Per-product addons can be found in the product edit screen."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1190
+msgctxt "theme-options"
+msgid "IMPORTANT NOTE"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1191
+msgctxt "theme-options"
+msgid "Disable this option if you are using third party Addon plugin."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1196
+msgid "Disabled"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1197
+msgid "Enabled"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1201
+msgctxt "theme-options"
+msgid "New Orders Push Notifications"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1202
+msgctxt "theme-options"
+msgid "Logged in users with at least \"Shop Manager\" permissions will receive browser push notification for each order which is ready to be processed. The site should be SSL enabled."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1208
+msgctxt "theme-options"
+msgid "Shop Page Header Style"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1209
+msgctxt "theme-options"
+msgid "Choose the header style for the page set as Shop page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1217
+msgctxt "theme-options"
+msgid "Shop Page Top Menu"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1218
+msgctxt "theme-options"
+msgid "Choose top menu for the shop page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1226
+#: incl/rigid-options-framework/rigid-options.php:1890
+msgctxt "theme-options"
+msgid "Subtitle"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1227
+msgctxt "theme-options"
+msgid "Subtitle for shop page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1233
+msgctxt "theme-options"
+msgid "Title with Image Background on Shop Page"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1241
+#: incl/rigid-options-framework/rigid-options.php:1905
+msgctxt "theme-options"
+msgid "Title alignment."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1252
+msgctxt "theme-options"
+msgid "Enable infinite scroll on shop and category pages."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1260
+msgctxt "theme-options"
+msgid "Use \"Load More\" button for the additional products to load."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1267
+msgctxt "theme-options"
+msgid "Show Refine Products Area"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1268
+msgctxt "theme-options"
+msgid "Show the area with price range and sorting options on product listings"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1274
+msgctxt "theme-options"
+msgid "Product Filtering Area Open / Close Button Style"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1275
+msgctxt "theme-options"
+msgid "Icon / Text style for the open / close toggle button in the product filtering area on product listings"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1279
+#: incl/rigid-options-framework/rigid-options.php:1349
+msgctxt "theme-options"
+msgid "Icon"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1280
+#: incl/rigid-options-framework/rigid-options.php:1348
+msgctxt "theme-options"
+msgid "Text"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1285
+msgctxt "theme-options"
+msgid "Product Filtering Area Default State"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1286
+msgctxt "theme-options"
+msgid "Opened / Closed state for the product filtering area on product listings"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1290
+msgctxt "theme-options"
+msgid "Closed"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1291
+msgctxt "theme-options"
+msgid "Opened"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1296
+msgctxt "theme-options"
+msgid "Enable Ajax for Product Filtering"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1297
+msgctxt "theme-options"
+msgid "Enable ajax for the price filter, sorting, products per page and \"Rigid Product Filter\" widget"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1303
+msgctxt "theme-options"
+msgid "Show \"My Account\" Icon"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1304
+msgctxt "theme-options"
+msgid "Choose whether to display \"My Account\" icon link in header."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1310
+msgctxt "theme-options"
+msgid "My Account Page Display Style"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1311
+msgctxt "theme-options"
+msgid "Choose the style of the My Account page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1316
+msgctxt "theme-options"
+msgid "Carousel"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1321
+msgctxt "theme-options"
+msgid "Show Shopping Cart"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1322
+msgctxt "theme-options"
+msgid "Choose whether to display shopping cart in header."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1328
+msgctxt "theme-options"
+msgid "Use Custom Free Delivery Option"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1329
+msgctxt "theme-options"
+msgid "Hide other shipping methods if free delivery is available. NOTE: Do not enable this option if using additional shipping plugins, and always clear WooCommerce transients after change."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1335
+msgctxt "theme-options"
+msgid "Enable AJAX Add to Cart on Single Product Pages"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1336
+msgctxt "theme-options"
+msgid "Use AJAX when adding product to cart on single product pages."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1342
+msgctxt "theme-options"
+msgid "Add to Cart Button Style"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1343
+msgctxt "theme-options"
+msgid "Choose between \"Add to cart\" text or icon."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1353
+msgctxt "theme-options"
+msgid "Add to Cart Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1354
+msgctxt "theme-options"
+msgid "Set color for \"Add to Cart\" button on products."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1360
+msgctxt "theme-options"
+msgid "Add to Cart Sound"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1361
+msgctxt "theme-options"
+msgid "Play sound notification when product is added to shopping cart."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1367
+msgctxt "theme-options"
+msgid "Wishlist Counter in Header"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1368
+msgctxt "theme-options"
+msgid "Display wishlist counter in header."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1374
+msgctxt "theme-options"
+msgid "Enable Product Quickview"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1375
+msgctxt "theme-options"
+msgid "Enable Quick view on product listings."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1381
+msgctxt "theme-options"
+msgid "Shop and Category Pages Width"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1382
+msgctxt "theme-options"
+msgid "Choose width for the shop and category pages."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1387
+#: incl/rigid-options-framework/rigid-options.php:1996
+msgctxt "theme-options"
+msgid "Standart"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1392
+msgctxt "theme-options"
+msgid "Product Listing Columns on Mobile Phones"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1393
+msgctxt "theme-options"
+msgid "Choose the number of columns to be displayed on mobile phones."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1398
+msgctxt "theme-options"
+msgid "Single Column"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1399
+msgctxt "theme-options"
+msgid "Two Columns"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1403
+msgctxt "theme-options"
+msgid "Product Reveal Effect"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1404
+msgctxt "theme-options"
+msgid "Enable / Disable reveal effect of products in the listings."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1410
+msgctxt "theme-options"
+msgid "Product Reveal Effect Color"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1411
+msgctxt "theme-options"
+msgid "Select color for the reveal effect of products in the listings."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1417
+msgctxt "theme-options"
+msgid "Manage Buttons Visibility on Listings"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1418
+msgctxt "theme-options"
+msgid "Should \"Add to cart\" and similar buttons are visible on product listings, or only on hover."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1423
+msgctxt "theme-options"
+msgid "Visible on Hover"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1424
+msgctxt "theme-options"
+msgid "Always Visible"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1428
+msgctxt "theme-options"
+msgid "Hover Product Image Behaviour on Product List"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1429
+msgctxt "theme-options"
+msgid "Choose hover behaviour for product listing."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1435
+msgctxt "theme-options"
+msgid "Image Swap"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1436
+msgctxt "theme-options"
+msgid "No Effect"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1440
+msgctxt "theme-options"
+msgid "Accent Shadow on Hover for Product Lists"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1441
+msgctxt "theme-options"
+msgid "When hovering over a product in product list a shadow appears around the product."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1447
+msgctxt "theme-options"
+msgid "Enable Carousel for Shop Categories"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1448
+msgctxt "theme-options"
+msgid "Enable carousel effect for the listed categories on shop pages (If categories are enabled from WooCommerce settings)."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1454
+msgctxt "theme-options"
+msgid "Columns Number for Shop Categories"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1455
+msgctxt "theme-options"
+msgid "Select the number of columns for the listed categories on shop pages (If categories are enabled from WooCommerce settings)."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1463
+msgctxt "theme-options"
+msgid "Shop Pages Default Product Columns"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1464
+msgctxt "theme-options"
+msgid "Select the default number of product columns on shop/category pages."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1472
+msgctxt "theme-options"
+msgid "Number of Products per Page"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1473
+msgctxt "theme-options"
+msgid "Set the number of products per page for product listings, like shop and product category pages."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1480
+msgctxt "theme-options"
+msgid "Number of Related Products"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1481
+msgctxt "theme-options"
+msgid "Set the number of related products shown on single product page. Set to -1 to display all."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1488
+msgctxt "theme-options"
+msgid "Enable Price Filter on Product Categories"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1489
+msgctxt "theme-options"
+msgid "Show Price Filter."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1496
+msgctxt "theme-options"
+msgid "Price Filter Slider Step"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1497
+msgctxt "theme-options"
+msgid "Set the step at which the slider changes and rounds min and max price boundaries."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1504
+msgctxt "theme-options"
+msgid "Enable Product Per Page on Product Categories"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1505
+msgctxt "theme-options"
+msgid "Limit products on product category pages."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1511
+msgctxt "theme-options"
+msgid "Use Countdown on Sales"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1512
+msgctxt "theme-options"
+msgid "Show countdown meter for products on sale."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1520
+msgctxt "theme-options"
+msgid "\"NEW\" Label Active Period"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1521
+msgctxt "theme-options"
+msgid "in Days"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1529
+msgctxt "theme-options"
+msgid "Show \"Out of Stock\" Label"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1530
+msgctxt "theme-options"
+msgid "Display \"Out of Stock\" in product listings."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1536
+msgctxt "theme-options"
+msgid "Product Page Gallery Type"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1537
+msgctxt "theme-options"
+msgid "Choose between default WooCommerce gallery and image list gallery. It can be set also on per product basis."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1543
+msgctxt "theme-options"
+msgid "WooCommerce Default Gallery"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1544
+msgctxt "theme-options"
+msgid "Image List Gallery"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1545
+msgctxt "theme-options"
+msgid "Mosaic Images Gallery"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1549
+msgctxt "theme-options"
+msgid "WooCommerce Default Gallery Settings"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1550
+msgctxt "theme-options"
+msgid "Manage WooCommerce default gallery effects."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1558
+msgctxt "theme-options"
+msgid "Product Promo Info Tooltips"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1559
+msgctxt "theme-options"
+msgid "Define up to three tooltips, triggered on hover. There are three predefined positions for single product view. And additional option to show tooltips in product listings."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1563
+msgctxt "theme-options"
+msgid "First Tooltip"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1568
+#: incl/rigid-options-framework/rigid-options.php:1613
+#: incl/rigid-options-framework/rigid-options.php:1658
+msgctxt "theme-options"
+msgid "Promo Text"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1575
+#: incl/rigid-options-framework/rigid-options.php:1620
+#: incl/rigid-options-framework/rigid-options.php:1665
+msgctxt "theme-options"
+msgid "Tooltip Trigger Text"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1576
+#: incl/rigid-options-framework/rigid-options.php:1621
+#: incl/rigid-options-framework/rigid-options.php:1666
+msgctxt "theme-options"
+msgid "When hovered, will show the tooltip content."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1583
+#: incl/rigid-options-framework/rigid-options.php:1628
+#: incl/rigid-options-framework/rigid-options.php:1673
+msgctxt "theme-options"
+msgid "Position in Single Product"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1591
+#: incl/rigid-options-framework/rigid-options.php:1636
+#: incl/rigid-options-framework/rigid-options.php:1681
+msgctxt "theme-options"
+msgid "Show Also in Product Listings"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1592
+#: incl/rigid-options-framework/rigid-options.php:1637
+#: incl/rigid-options-framework/rigid-options.php:1682
+msgctxt "theme-options"
+msgid "Check to show tooltips also in product listings, just below the price."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1599
+#: incl/rigid-options-framework/rigid-options.php:1644
+#: incl/rigid-options-framework/rigid-options.php:1689
+msgctxt "theme-options"
+msgid "Tooltip Content"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1608
+msgctxt "theme-options"
+msgid "Second Tooltip"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1653
+msgctxt "theme-options"
+msgid "Third Tooltip"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1698
+msgctxt "theme-options"
+msgid "Single Product Page Custom Popup"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1699
+msgctxt "theme-options"
+msgid "Enter the link label and the content of the popup. The link will be shown in the single product page, in the short description area."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1713
+msgctxt "theme-options"
+msgid "Enable YouTube video background for Shop page"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1714
+msgctxt "theme-options"
+msgid "Check to enable below youtube video to be set as background on the Shop page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1720
+msgctxt "theme-options"
+msgid "Enable the video background for the whole shop area. NOTE: It will override all other video backgrounds in the shop area."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1764
+msgctxt "theme-options"
+msgid "Enable supersized slider on Shop page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1765
+msgctxt "theme-options"
+msgid "Check to enable below slider to be set as background on the Shop page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1771
+msgctxt "theme-options"
+msgid "Enable the slider for the whole shop area. NOTE: It will override all other supersized sliders in the shop area."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1777
+msgctxt "theme-options"
+msgid "Choose images for the Shop page supersized slider."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1793
+msgctxt "theme-options"
+msgid "Events"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1798
+msgctxt "theme-options"
+msgid "Options specific to The Events Calendar plugin."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1802
+msgctxt "theme-options"
+msgid "Top Menu for Events Category View Pages"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1803
+msgctxt "theme-options"
+msgid "Choose top menu for the Main Calendar Page, Calendar Category Pages, Main Events List, Category Events List."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1811
+msgctxt "theme-options"
+msgid "Header Style for Events Category View Pages"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1812
+msgctxt "theme-options"
+msgid "Choose the header style for Main Calendar Page, Calendar Category Pages, Main Events List, Category Events List."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1820
+msgctxt "theme-options"
+msgid "Events Title"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1821
+msgctxt "theme-options"
+msgid "Enter the title for Main Calendar Page, Main Events List. Use empty for default."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1827
+msgctxt "theme-options"
+msgid "Events Subtitle"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1828
+msgctxt "theme-options"
+msgid "Subtitle for Main Calendar Page, Main Events List."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1834
+msgctxt "theme-options"
+msgid "Title with Image Background for Events"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1835
+#: incl/rigid-options-framework/rigid-options.php:1973
+msgctxt "theme-options"
+msgid "Use to manage / upload images"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1842
+#: incl/rigid-options-framework/rigid-options.php:1980
+msgctxt "theme-options"
+msgid "Title alignment"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1852
+msgctxt "theme-options"
+msgid "Use Countdown on Events"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1853
+msgctxt "theme-options"
+msgid "Show countdown meter for starting time for an Event. Visible on single event pages."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1867
+msgctxt "theme-options"
+msgid "bbPress"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1872
+msgctxt "theme-options"
+msgid "Header Style for Forum Root Page"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1873
+msgctxt "theme-options"
+msgid "Choose the header style for the forum root page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1881
+msgctxt "theme-options"
+msgid "Forum Root Page Top Menu"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1882
+msgctxt "theme-options"
+msgid "Choose top menu for the forum root page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1891
+msgctxt "theme-options"
+msgid "Subtitle for Forum Root Page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1897
+msgctxt "theme-options"
+msgid "Title with Image Background on Forum Root Page"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1919
+msgctxt "theme-options"
+msgid "Blog"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1924
+msgctxt "theme-options"
+msgid "Blog Style"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1925
+msgctxt "theme-options"
+msgid "Choose how the posts will appear on the Blog."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1933
+msgctxt "theme-options"
+msgid "Top Menu for Blog page"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1934
+msgctxt "theme-options"
+msgid "Choose top menu for Blog page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1942
+msgctxt "theme-options"
+msgid "Header Style for Blog page, Category, Tags and Search"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1943
+msgctxt "theme-options"
+msgid "Choose the header style for Blog page, Category, Tags and Search."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1951
+msgctxt "theme-options"
+msgid "Show Title on the Blog page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1952
+msgctxt "theme-options"
+msgid "If selected, the page set as Blog page will have its title displayed."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1958
+msgctxt "theme-options"
+msgid "Blog Title"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1959
+msgctxt "theme-options"
+msgid "Enter the title of the Blog page as set up in the Settings->Reading."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1965
+msgctxt "theme-options"
+msgid "Blog Subtitle"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1966
+msgctxt "theme-options"
+msgid "Subtitle for blog page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1972
+msgctxt "theme-options"
+msgid "Title with Image Background on Blog page, Category, Tags and Search"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1990
+msgctxt "theme-options"
+msgid "Blog and Category Pages Width"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:1991
+msgctxt "theme-options"
+msgid "Choose width for the blog and category pages."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2001
+msgctxt "theme-options"
+msgid "Show Related Posts"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2002
+msgctxt "theme-options"
+msgid "Display random posts from the same categories on single post page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2008
+msgctxt "theme-options"
+msgid "Number of Related Posts"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2009
+msgctxt "theme-options"
+msgid "Set the number of related posts shown on single post page. Set to -1 to display all."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2016
+msgctxt "theme-options"
+msgid "Show Author Info on Blog Posts"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2017
+msgctxt "theme-options"
+msgid "If selected, Author section will be displayed below the post."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2023
+msgctxt "theme-options"
+msgid "Show Author Avatar"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2024
+msgctxt "theme-options"
+msgid "If selected, Author avatar will be displayed on posts."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2031
+msgctxt "theme-options"
+msgid "Enable YouTube video background for Blog page"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2032
+msgctxt "theme-options"
+msgid "Check to enable below youtube video to be set as background on the Blog page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2076
+msgctxt "theme-options"
+msgid "Enable Supersized Slider on Blog Page"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2077
+msgctxt "theme-options"
+msgid "Check to enable below slider to be set as background on the Blog page."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2083
+msgctxt "theme-options"
+msgid "Choose images for the Blog page supersized slider"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2094
+msgctxt "theme-options"
+msgid "Sidebars"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2099
+msgctxt "theme-options"
+msgid "Sidebars Default Position"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2100
+msgctxt "theme-options"
+msgid "Choose sitewide sidebars position. Can be changed in page/post edit."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2108
+msgctxt "theme-options"
+msgid "Create new custom sidebar"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2109
+msgctxt "theme-options"
+msgid "Enter the name of the custom sidebar."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2115
+msgctxt "theme-options"
+msgid "Sidebar for Blog, Archive and Category Pages"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2116
+msgctxt "theme-options"
+msgid "Select sidebar to be displayed on Blog page and all post category, tag and search pages."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2124
+msgctxt "theme-options"
+msgid "Position"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2132
+msgctxt "theme-options"
+msgid "Sidebar for Portfolio Archive and Category Pages"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2133
+msgctxt "theme-options"
+msgid "Select sidebar to be displayed on all Portfolio Archive and Category Pages."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2146
+msgctxt "theme-options"
+msgid "Sidebar for WooCommerce part"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2147
+msgctxt "theme-options"
+msgid "Select sidebar to be displayed on all WooCommerce pages that can have sidebar"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2155
+msgctxt "theme-options"
+msgid "Show sidebar on Shop and category pages."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2161
+msgctxt "theme-options"
+msgid "Position for the Shop and category pages sidebar."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2169
+msgctxt "theme-options"
+msgid "Show sidebar on product pages."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2175
+msgctxt "theme-options"
+msgid "Position for the Product pages sidebar."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2186
+msgctxt "theme-options"
+msgid "Sidebar for Single Vendor Shop"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2187
+msgctxt "theme-options"
+msgid "Select sidebar to be displayed on single vendor shop page for WC Marketplace and  plugin."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2201
+msgctxt "theme-options"
+msgid "Sidebar for bbPress part"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2202
+msgctxt "theme-options"
+msgid "Select sidebar to be displayed by default on all bbPress pages. May be overridden on specific forums and topics."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2216
+msgctxt "theme-options"
+msgid "Sidebar for Events Calendar part"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2217
+msgctxt "theme-options"
+msgid "Select sidebar to be displayed by default on all Events Calendar pages. May be overridden on specific Events."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2226
+msgctxt "theme-options"
+msgid "Off Canvas Sidebar"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2227
+msgctxt "theme-options"
+msgid "Select sidebar to be displayed off canvas."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2236
+msgctxt "theme-options"
+msgid "Footer Sidebar"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2237
+msgctxt "theme-options"
+msgid "Select sidebar to be displayed in footer. May be overriden for the specific pages, posts and custom post types."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2248
+msgctxt "theme-options"
+msgid "Social Profiles"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2253
+msgctxt "theme-options"
+msgid "Fill in your social profiles URLs and select where to appear."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2257
+msgctxt "theme-options"
+msgid "Show in Header"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2259
+msgctxt "theme-options"
+msgid "Show profiles in header."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2264
+msgctxt "theme-options"
+msgid "Show in Footer"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2266
+msgctxt "theme-options"
+msgid "Show profiles in footer."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2271
+msgctxt "theme-options"
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2277
+msgctxt "theme-options"
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2283
+msgctxt "theme-options"
+msgid "Google+ Profile URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2289
+msgctxt "theme-options"
+msgid "YouTube Profile URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2295
+msgctxt "theme-options"
+msgid "Vimeo Profile URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2301
+msgctxt "theme-options"
+msgid "Dribbble Profile URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2307
+msgctxt "theme-options"
+msgid "LinkedIn Profile URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2313
+msgctxt "theme-options"
+msgid "StumbleUpon Profile URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2319
+msgctxt "theme-options"
+msgid "Flickr Profile URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2325
+msgctxt "theme-options"
+msgid "Instagram Profile URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2331
+msgctxt "theme-options"
+msgid "Pinterest Profile URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2337
+msgctxt "theme-options"
+msgid "VKontakte Profile URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2343
+msgctxt "theme-options"
+msgid "Behance Profile URL"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2353
+msgctxt "theme-options"
+msgid "Import Demo"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2358
+msgid "NOTE THAT THE IMPORT CAN OVERRIDE YOUR DATA AND SETTINGS."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2358
+msgctxt "theme-options"
+msgid "<p><b>Make sure that the required plugins for the corresponding import are installed and activated.</b></p><p>Note also that the demo is using many images and takes longer to import. You may need to increase some of the PHP parameters, described here: %s . If for some reason is not possible to increase <i>max_execution_time</i> and still can't run the import, you may need to run it again, in order to import all the images.</p><p><b>Click the image of the desired demo to import.</b>The import can take several minutes. For best result use fresh WP installation.</p><p>You can use following plugin to reset WordPress: %s .</p>"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2362
+msgctxt "theme-options"
+msgid "Import Rigid Main Demo"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2363
+#: incl/rigid-options-framework/rigid-options.php:2383
+msgctxt "theme-options"
+msgid "<p><b>Demo Location:</b> %s <br/><b>NOTE:</b> Usually takes less than 3 minutes, but depending on the server it may take up to 10.</p><p><b>Required plugins for the import:</b><br/><b><a target=\"_blank\" href=\"https://wordpress.org/plugins/woocommerce/\">WooCommerce</a></b></p>"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2372
+msgctxt "theme-options"
+msgid "Import Rigid Marketplace Demo"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2373
+msgctxt "theme-options"
+msgid "<p><b>Demo Location:</b> %s <br/><b>NOTE:</b> Usually takes less than 3 minutes, but depending on the server it may take up to 10.</p><p><b>Required plugins for the import:</b><br/><b><a target=\"_blank\" href=\"https://wordpress.org/plugins/woocommerce/\">WooCommerce</a></b><br/><b><a target=\"_blank\" href=\"https://wordpress.org/plugins/dc-woocommerce-multi-vendor/\">WC Marketplace</a></b><br/><b><a target=\"_blank\" href=\"https://wordpress.org/plugins/mailchimp-for-wp/\">MailChimp for WordPress</a></b></p>"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2382
+msgctxt "theme-options"
+msgid "Import Rigid Sneakers Demo"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2396
+msgctxt "theme-options"
+msgid "Rigid Updates"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2403
+#: incl/rigid-options-framework/rigid-options.php:2409
+msgid "Rigid automatic updates are managed by the Envato Market plugin (bundled with the theme)."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2404
+msgctxt "theme-options"
+msgid "Manage your Envato purchased items"
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2410
+msgctxt "theme-options"
+msgid "Please install and activate \"Envato Market\" in order to manage all your WordPress themes and plugins purchased from Envato."
+msgstr ""
+
+#: incl/rigid-options-framework/rigid-options.php:2411
+msgctxt "theme-options"
+msgid "Install/Activate Envato Market plugin"
+msgstr ""
+
+#: incl/RigidMegaMenu.php:13
+msgid "Custom Menu Label"
+msgstr ""
+
+#: incl/RigidMegaMenu.php:23
+msgid "Label Color"
+msgstr ""
+
+#: incl/RigidMegaMenu.php:32
+msgid "Icon"
+msgstr ""
+
+#: incl/RigidMegaMenu.php:42
+msgid "Highlight menu item"
+msgstr ""
+
+#: incl/RigidMegaMenu.php:55
+msgid "Always opened on Home page"
+msgstr ""
+
+#: incl/RigidMegaMenu.php:68
+msgid "Mega Menu"
+msgstr ""
+
+#: incl/RigidMegaMenu.php:78
+msgid "None"
+msgstr ""
+
+#: incl/RigidMegaMenu.php:79
+msgid "Mega Menu Standard"
+msgstr ""
+
+#: incl/RigidMegaMenu.php:80
+#: incl/system/core-functions.php:389
+msgid "Horizontal Mega Menu"
+msgstr ""
+
+#: incl/RigidMegaMenu.php:85
+msgid "Use the Description to create a Text Block. It will hide the Navigation Label and display the description instead. (note: dont remove the label text, otherwise WordPress will delete the item)"
+msgstr ""
+
+#: incl/RigidTransferContent.class.php:333
+msgid "There was error with settings file."
+msgstr ""
+
+#: incl/system/core-functions.php:64
+msgid "Main Menu"
+msgstr ""
+
+#: incl/system/core-functions.php:67
+msgid "Mobile Menu"
+msgstr ""
+
+#: incl/system/core-functions.php:70
+msgid "Top Menu"
+msgstr ""
+
+#: incl/system/core-functions.php:73
+msgid "Footer Menu"
+msgstr ""
+
+#: incl/system/core-functions.php:86
+msgid "Default Sidebar"
+msgstr ""
+
+#: incl/system/core-functions.php:88
+msgid "Default Blog widget area"
+msgstr ""
+
+#: incl/system/core-functions.php:97
+msgid "Footer Sidebar"
+msgstr ""
+
+#: incl/system/core-functions.php:99
+msgid "Footer widget area"
+msgstr ""
+
+#: incl/system/core-functions.php:108
+msgid "Pre Header Sidebar"
+msgstr ""
+
+#: incl/system/core-functions.php:110
+msgid "Pre header widget area"
+msgstr ""
+
+#: incl/system/core-functions.php:120
+msgid "Shop Sidebar"
+msgstr ""
+
+#: incl/system/core-functions.php:122
+msgid "Default Shop sidebar"
+msgstr ""
+
+#: incl/system/core-functions.php:131
+msgid "Product Filters Sidebar"
+msgstr ""
+
+#: incl/system/core-functions.php:133
+msgid "Product filters widget area, shown on shop and product category pages"
+msgstr ""
+
+#: incl/system/core-functions.php:146
+msgid "Default Forum sidebar"
+msgstr ""
+
+#: incl/system/core-functions.php:194
+msgid "Rigid Plugin"
+msgstr ""
+
+#: incl/system/core-functions.php:203
+msgid "Envato Market - WordPress Theme & Plugin management for the Envato Market"
+msgstr ""
+
+#: incl/system/core-functions.php:212
+msgid "WooCommerce - excelling eCommerce"
+msgstr ""
+
+#: incl/system/core-functions.php:218
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: incl/system/core-functions.php:224
+msgid "Revolution Slider"
+msgstr ""
+
+#: incl/system/core-functions.php:233
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: incl/system/core-functions.php:261
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: incl/system/core-functions.php:262
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: incl/system/core-functions.php:264
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: incl/system/core-functions.php:266
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: incl/system/core-functions.php:267
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: incl/system/core-functions.php:268
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:341
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: incl/system/core-functions.php:272
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:347
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: incl/system/core-functions.php:276
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:353
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: incl/system/core-functions.php:280
+msgid "There is an update available for: %1$s. Prior update please make sure that the theme is compatible with the new version."
+msgid_plural "There are updates available for the following plugins: %1$s. Prior update please make sure that the theme is compatible with the new version."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: incl/system/core-functions.php:284
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:365
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: incl/system/core-functions.php:288
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:371
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: incl/system/core-functions.php:292
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: incl/system/core-functions.php:295
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: incl/system/core-functions.php:298
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: incl/system/core-functions.php:301
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: incl/system/core-functions.php:302
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: incl/system/core-functions.php:303
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: incl/system/core-functions.php:305
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: incl/system/core-functions.php:307
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: incl/system/core-functions.php:309
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: incl/system/core-functions.php:310
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: incl/system/core-functions.php:311
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: incl/system/core-functions.php:312
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: incl/system/core-functions.php:388
+msgid "Vertical Mega Menu"
+msgstr ""
+
+#: incl/system/core-functions.php:390
+msgid "Column"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported by that font, translate this to 'off'. Do not translate into your own language.
+#: incl/system/core-functions.php:815
+msgctxt "Google fonts: on or off"
+msgid "on"
+msgstr ""
+
+#: incl/system/core-functions.php:930
+#: woocommerce/cart/cart.php:34
+#: woocommerce/cart/cart.php:79
+msgid "Product"
+msgstr ""
+
+#: incl/system/core-functions.php:931
+msgid "was added to the cart"
+msgstr ""
+
+#: incl/system/core-functions.php:935
+msgid "Login"
+msgstr ""
+
+#: incl/system/core-functions.php:936
+msgid "Register"
+msgstr ""
+
+#: incl/system/core-functions.php:1036
+msgid "Sorry, no products matched your selection. Please choose a different combination."
+msgstr ""
+
+#: incl/system/core-functions.php:1037
+msgid "Please select some product options before adding this product to your cart."
+msgstr ""
+
+#: incl/system/core-functions.php:1038
+msgid "Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: incl/system/core-functions.php:1494
+msgid "- No menu -"
+msgstr ""
+
+#: incl/system/core-functions.php:1495
+msgid "- Use global set top menu -"
+msgstr ""
+
+#: incl/system/core-functions.php:1540
+msgid "The Main Calendar"
+msgstr ""
+
+#: incl/system/core-functions.php:1544
+msgid "Calendar Category"
+msgstr ""
+
+#: incl/system/core-functions.php:1550
+#: incl/system/core-functions.php:1554
+msgid "Events List"
+msgstr ""
+
+#: incl/system/core-functions.php:1560
+msgid "Events on"
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:359
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:912
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3670
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:1019
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:1206
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2067
+msgid "TGMPA v%s"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2427
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2473
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2477
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2639
+#: single-rigid-portfolio.php:250
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2688
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2693
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2699
+msgid "Activate %2$s"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3583
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3586
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3588
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3597
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3605
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: incl/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: incl/woocommerce-functions.php:245
+msgid "Refine Products"
+msgstr ""
+
+#: incl/woocommerce-functions.php:248
+msgid "More Filters"
+msgstr ""
+
+#: incl/woocommerce-functions.php:248
+msgid "Filter"
+msgstr ""
+
+#: incl/woocommerce-functions.php:368
+msgid "Min price"
+msgstr ""
+
+#: incl/woocommerce-functions.php:369
+msgid "Max price"
+msgstr ""
+
+#: incl/woocommerce-functions.php:372
+msgid "Price range:"
+msgstr ""
+
+#: incl/woocommerce-functions.php:486
+msgid "Reset All Filters"
+msgstr ""
+
+#: incl/woocommerce-functions.php:576
+#: incl/woocommerce-functions.php:605
+msgid "Offer ends in"
+msgstr ""
+
+#: incl/woocommerce-functions.php:609
+msgid "Hurry! Only <b>%u</b> left"
+msgstr ""
+
+#: incl/woocommerce-functions.php:611
+msgid "Saving"
+msgstr ""
+
+#: incl/woocommerce-functions.php:748
+msgid "Compare"
+msgstr ""
+
+#: incl/woocommerce-functions.php:817
+msgid "View your shopping cart"
+msgstr ""
+
+#: incl/woocommerce-functions.php:990
+msgid "New Order"
+msgstr ""
+
+#: incl/woocommerce-functions.php:991
+msgid "Order"
+msgstr ""
+
+#: incl/woocommerce-functions.php:991
+msgid "is waiting to be processed."
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blank page"
+msgstr ""
+
+#: partials/blog-post-meta-bottom.php:42
+#: partials/blog-post-meta-top.php:15
+msgid "View all posts in %s"
+msgstr ""
+
+#: partials/blog-post-meta-top.php:23
+msgid "View comments"
+msgstr ""
+
+#: partials/content-rigid_portfolio_category.php:142
+msgid "Portfolio"
+msgstr ""
+
+#: partials/content-rigid_portfolio_category.php:193
+msgid "show all"
+msgstr ""
+
+#: partials/content-rigid_portfolio_category.php:252
+#: partials/content-rigid_portfolio_category.php:261
+#: partials/content-rigid_portfolio_category.php:287
+#: partials/content-rigid_portfolio_category.php:297
+#: single-rigid-portfolio.php:342
+msgid "View project"
+msgstr ""
+
+#: partials/content-rigid_portfolio_category.php:320
+msgid "No Portfolio found. Sorry!"
+msgstr ""
+
+#: partials/content-rigid_portfolio_category.php:337
+#: woocommerce/loop/pagination.php:37
+msgid "Loading"
+msgstr ""
+
+#: partials/content-rigid_portfolio_category.php:338
+#: woocommerce/loop/pagination.php:38
+msgid "No more items available"
+msgstr ""
+
+#: partials/content-rigid_portfolio_category.php:343
+#: woocommerce/loop/pagination.php:43
+msgid "Load More"
+msgstr ""
+
+#: partials/social-profiles.php:8
+msgid "Follow on Facebook"
+msgstr ""
+
+#: partials/social-profiles.php:9
+msgid "Follow on Twitter"
+msgstr ""
+
+#: partials/social-profiles.php:10
+msgid "Follow on Google+"
+msgstr ""
+
+#: partials/social-profiles.php:11
+msgid "Follow on YouTube"
+msgstr ""
+
+#: partials/social-profiles.php:12
+msgid "Follow on Vimeo"
+msgstr ""
+
+#: partials/social-profiles.php:13
+msgid "Follow on Dribbble"
+msgstr ""
+
+#: partials/social-profiles.php:14
+msgid "Follow on LinkedIn"
+msgstr ""
+
+#: partials/social-profiles.php:15
+msgid "Follow on StumbleUpon"
+msgstr ""
+
+#: partials/social-profiles.php:16
+msgid "Follow on Flickr"
+msgstr ""
+
+#: partials/social-profiles.php:17
+msgid "Follow on Instagram"
+msgstr ""
+
+#: partials/social-profiles.php:18
+msgid "Follow on Pinterest"
+msgstr ""
+
+#: partials/social-profiles.php:19
+msgid "Follow on VKontakte"
+msgstr ""
+
+#: partials/social-profiles.php:20
+msgid "Follow on Behance"
+msgstr ""
+
+#: search.php:48
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single-rigid-portfolio.php:204
+msgid "Short Description"
+msgstr ""
+
+#: single-rigid-portfolio.php:218
+msgid "Main Features"
+msgstr ""
+
+#: single-rigid-portfolio.php:235
+msgid "Details"
+msgstr ""
+
+#: single-rigid-portfolio.php:238
+msgid "Collection"
+msgstr ""
+
+#: single-rigid-portfolio.php:241
+msgid "Materials"
+msgstr ""
+
+#: single-rigid-portfolio.php:244
+msgid "Client"
+msgstr ""
+
+#: single-rigid-portfolio.php:247
+msgid "Model"
+msgstr ""
+
+#: single-rigid-portfolio.php:312
+msgid "Similar projects"
+msgstr ""
+
+#: single.php:137
+msgid "Related posts"
+msgstr ""
+
+#: tribe-events/single-event.php:28
+msgid "All %s"
+msgstr ""
+
+#: tribe-events/single-event.php:48
+msgid "Event starts in"
+msgstr ""
+
+#: tribe-events/single-event.php:57
+#: tribe-events/single-event.php:87
+msgid "%s Navigation"
+msgstr ""
+
+#: wc-vendors/public/forms/partials/wcvendors-pro-attributes.php:21
+msgid "Select an attribute"
+msgstr ""
+
+#: wc-vendors/public/forms/partials/wcvendors-pro-product-attribute.php:73
+msgid "Add new"
+msgstr ""
+
+#: wc-vendors/public/forms/partials/wcvendors-pro-product-attribute.php:79
+#: wc-vendors/public/forms/partials/wcvendors-pro-product-attribute.php:85
+msgid "\"%s\" separate terms"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35
+#: woocommerce/cart/cart.php:99
+msgid "Price"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: woocommerce/cart/cart.php:36
+#: woocommerce/cart/cart.php:105
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37
+#: woocommerce/cart/cart.php:122
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:94
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:146
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/content-single-product-rigid-quickview.php:59
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/content-widget-reviews.php:31
+msgid "by %s"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:38
+msgid "Quick View"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:34
+msgid "Show"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:45
+msgid "Show All"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:55
+msgid "Sort By"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:56
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:32
+msgid "New"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:36
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+#: woocommerce/product-searchform.php:28
+msgid "Search Products"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:42
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:44
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:48
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:48
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:42
+msgid "Play Product Video"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:51
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:31
+msgid "Related products"
+msgstr ""
