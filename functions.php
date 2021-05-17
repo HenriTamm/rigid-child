@@ -358,33 +358,6 @@ function remove_about_me_widget( $sidebars_widgets ) {
 }
 
 
-// Widget categories - show only current category subcategories
-// also edited core wp-includes/class-wp-walker.php
-add_filter( 'woocommerce_product_categories_widget_args', 'widget_categories_args_filter'); 
-
-function widget_categories_args_filter( $cat_args ) {
-    //error_log( 'in categories widget, the current category : ' . print_r($cat_args,true) );
-    
-    if (!empty( $cat_args['current_category'] )) {
-        $current_category = get_queried_object();
-        $category_id = $current_category -> term_id;
-        $categories = get_term_children($category_id, 'product_cat');
-        array_push($categories, $cat_args['current_category']);
-        
-        $include_arr = explode(",", $cat_args['include']);
-        $new_include_arr = array();
-        foreach ($include_arr as &$value) {
-            if (in_array($value, $categories)) {
-                array_push($new_include_arr, $value);
-            }
-        }
-        $cat_args['include'] = implode( ',', $new_include_arr );
-    }
-    
-    return $cat_args;
-}
-
-
 /**
  * @snippet    WooCommerce User Registration Shortcode For Product
  */
@@ -519,5 +492,19 @@ function my_wp_nav_menu_args( $args ) {
 }
 add_filter( 'wp_nav_menu_args', 'my_wp_nav_menu_args' );
 
+
+// Register custom widget - show only current category subcategories
+add_action( 'widgets_init', 'override_woocommerce_widgets', 15 );
+
+function override_woocommerce_widgets() {
+  if ( class_exists( 'WC_Widget_Product_Categories' ) ) {
+    unregister_widget( 'WC_Widget_Product_Categories' );
+
+    include_once( 'widgets/class-custom-wc-widget-product-categories.php' );
+
+    register_widget( 'Custom_WC_Widget_Product_Categories' );
+  }
+
+}
 
 
