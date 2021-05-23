@@ -11,3 +11,22 @@ License URI: https://themeforest.net/licenses/standard
 Text Domain: rigid
 */
 
+/* move the additional images bellow the main image */
+div.product div.images, #content div.product div.images {
+    padding: 0;
+}
+span.onsale {
+    top: 30px;
+    left: 30px;
+}
+div.product div.images ol.flex-control-nav, #content div.product div.images ol.flex-control-nav {
+    width: 100%;
+    position: relative;
+    padding-top: 20px !important;
+    text-align: left;
+}
+div.product div.images ol.flex-control-nav li, #content div.product div.images ol.flex-control-nav li {
+    margin-right: 5px;
+}
+
+
